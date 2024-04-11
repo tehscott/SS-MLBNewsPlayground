@@ -1,0 +1,21 @@
+<resources>
+    <!-- colors.xml -->
+    <color name="primaryColor">#4CAF50</color> <!-- Green in light theme -->
+    <color name="primaryColorDark">#1B5E20</color> <!-- Darker green for dark theme -->
+    <color name="secondaryColor">#F44336</color> <!-- Red in light theme -->
+    <color name="secondaryColorDark">#D32F2F</color> <!-- Darker red for dark theme -->
+
+    <!-- Background color for the app -->
+    <color name="backgroundColor">#FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="black">#FF000000</color>
+    <color name="darkGray">#DD000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Additional colors for various UI elements -->
+    <color name="cardStrokeColor">@color/primaryColor</color>
+    <color name="baseballRed">#F44336</color>
+    <color name="buttonColor">#2196F3</color>
+    <color name="cardBackgroundColor">#F5F5F5</color>
+</resources>

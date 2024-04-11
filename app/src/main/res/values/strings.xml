@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MLBNewsPlayground</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mlb_url">http://www.mlb.com</string>
+    <string name="news_url">https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/news</string>
+</resources>

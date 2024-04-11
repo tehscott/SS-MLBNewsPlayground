@@ -1,0 +1,1467 @@
+{
+  "header": "MLB News",
+  "link": {
+    "language": "en",
+    "rel": [
+      "index",
+      "desktop",
+      "league"
+    ],
+    "href": "https://www.espn.com/mlb/",
+    "text": "All MLB News",
+    "shortText": "All News",
+    "isExternal": false,
+    "isPremium": false
+  },
+  "articles": [
+    {
+      "dataSourceIdentifier": "4146fe0c548b4",
+      "description": "First baseman/outfielder Jake Bauers was traded from the Yankees to the Brewers on Friday for minor league outfielders Jace Avina and Brian Sánchez.",
+      "type": "HeadlineNews",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38921632"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38921632"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mlb/story/_/id/38921632/yankees-trade-jake-bauers-brewers-minor-leaguers"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/mlb/story?storyId=38921632"
+        }
+      },
+      "categories": [
+        {
+          "id": 80311,
+          "description": "MLB",
+          "type": "league",
+          "sportId": 10,
+          "leagueId": 10,
+          "league": {
+            "id": 10,
+            "description": "MLB",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/mlb/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/mlb/"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "id": 61,
+          "description": "New York Yankees",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 10,
+          "team": {
+            "id": 10,
+            "description": "New York Yankees",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/10"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/nyy/new-york-yankees"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=10"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:10",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "id": 146050,
+          "description": "Jake Bauers",
+          "type": "athlete",
+          "sportId": 10,
+          "athleteId": 35013,
+          "athlete": {
+            "id": 35013,
+            "description": "Jake Bauers",
+            "links": {
+              "api": {
+                "athletes": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/athletes/35013"
+                }
+              },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mlb/player/_/id/35013/jake-bauers"
+                }
+              },
+              "mobile": {
+                "athletes": {
+                  "href": "http://m.espn.com/mlb/playercard?playerId=35013"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~a:35013",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "id": 527,
+          "description": "Milwaukee Brewers",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 8,
+          "team": {
+            "id": 8,
+            "description": "Milwaukee Brewers",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/8"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/mil/milwaukee-brewers"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=8"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:8",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "id": 409224,
+          "description": "news",
+          "type": "topic",
+          "sportId": 0,
+          "topicId": 781,
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "topicId": 123,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0"
+        },
+        {
+          "type": "guid",
+          "guid": "2b9cedf3-ce60-0bcf-fafe-8cd055255685",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "2b9cedf3ce600bcffafe8cd055255685",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b38f959b-7865-31ac-8841-b88355519e10",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "fb61ce47-001c-a99c-eab5-77eb5c782968",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "fb61ce47001ca99ceab577eb5c782968",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "5231367719f8b106ec91d8d17e6087fe",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "4750d73d-d92e-b390-758c-2c7b44a810db",
+          "createDate": "2023-11-17T21:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "4750d73dd92eb390758c2c7b44a810db",
+          "createDate": "2023-11-17T21:37:00Z"
+        }
+      ],
+      "headline": "Yankees trade Jake Bauers to Brewers for minor leaguers",
+      "images": [
+        {
+          "dataSourceIdentifier": "1aac3227a362c",
+          "name": "Jake Bauers  [600x400]",
+          "width": 600,
+          "id": 38921693,
+          "credit": "Frank Franklin II/AP",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2023/1117/r1254557_600x400_3-2.jpg",
+          "height": 400
+        }
+      ],
+      "published": "2023-11-17T21:49:02Z",
+      "lastModified": "2023-11-17T21:49:00Z"
+    },
+    {
+      "dataSourceIdentifier": "9779d4db9b082",
+      "description": "Luis Robert Jr. and Dylan Cease are not untouchable, contrary to reports last week, Chicago White Sox general manager Chris Getz clarified Friday.",
+      "type": "HeadlineNews",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38921213"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38921213"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mlb/story/_/id/38921213/luis-robert-our-players-available"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/mlb/story?storyId=38921213"
+        }
+      },
+      "categories": [
+        {
+          "id": 80311,
+          "description": "MLB",
+          "type": "league",
+          "sportId": 10,
+          "leagueId": 10,
+          "league": {
+            "id": 10,
+            "description": "MLB",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/mlb/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/mlb/"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "id": 180828,
+          "description": "Luis Robert Jr.",
+          "type": "athlete",
+          "sportId": 10,
+          "athleteId": 39631,
+          "athlete": {
+            "id": 39631,
+            "description": "Luis Robert Jr.",
+            "links": {
+              "api": {
+                "athletes": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/athletes/39631"
+                }
+              },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mlb/player/_/id/39631/luis-robert-jr."
+                }
+              },
+              "mobile": {
+                "athletes": {
+                  "href": "http://m.espn.com/mlb/playercard?playerId=39631"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~a:39631",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "id": 141,
+          "description": "Chicago White Sox",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 4,
+          "team": {
+            "id": 4,
+            "description": "Chicago White Sox",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/4"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/chw/chicago-white-sox"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=4"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:4",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "id": 409224,
+          "description": "news",
+          "type": "topic",
+          "sportId": 0,
+          "topicId": 781,
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "topicId": 123,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T19:49:27Z"
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "5231367719f8b106ec91d8d17e6087fe",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b-94a5-72a1-7013-83b7c7e1eeb0",
+          "createDate": "2023-11-17T19:49:27Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b94a572a1701383b7c7e1eeb0",
+          "createDate": "2023-11-17T19:49:27Z"
+        },
+        {
+          "type": "guid",
+          "guid": "8f4800c6-3c05-b3d5-8186-9750cd72a3c2",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "8f4800c63c05b3d581869750cd72a3c2",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b38f959b-7865-31ac-8841-b88355519e10",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "9d68c1cb-341c-5bb8-ba62-3a6f20d44262",
+          "createDate": "2023-11-17T19:42:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "9d68c1cb341c5bb8ba623a6f20d44262",
+          "createDate": "2023-11-17T19:42:00Z"
+        }
+      ],
+      "headline": "White Sox GM: Luis Robert, 'any of our players' available",
+      "images": [
+        {
+          "name": "Luis Robert [600x400]",
+          "width": 600,
+          "id": 34337632,
+          "credit": "Icon Sportswire",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2022/0803/r1043739_2_600x400_3-2.jpg",
+          "height": 400
+        }
+      ],
+      "published": "2023-11-17T20:21:57Z",
+      "lastModified": "2023-11-17T20:14:04Z"
+    },
+    {
+      "dataSourceIdentifier": "4ee40582f9718",
+      "description": "The negotiating window for MLB teams to attempt to acquire Japanese star pitcher Yoshinobu Yamamoto is expected to start Tuesday, a source told ESPN.",
+      "type": "HeadlineNews",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38921209"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38921209"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mlb/story/_/id/38921209/yoshinobu-yamamoto-talks-mlb-teams-set-start-source-says"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/mlb/story?storyId=38921209"
+        }
+      },
+      "categories": [
+        {
+          "id": 80311,
+          "description": "MLB",
+          "type": "league",
+          "sportId": 10,
+          "leagueId": 10,
+          "league": {
+            "id": 10,
+            "description": "MLB",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/mlb/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/mlb/"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10",
+          "createDate": "2023-11-17T19:35:00Z"
+        },
+        {
+          "id": 409224,
+          "description": "news",
+          "type": "topic",
+          "sportId": 0,
+          "topicId": 781,
+          "createDate": "2023-11-17T19:35:00Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T19:46:26Z"
+        },
+        {
+          "topicId": 123,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T19:42:27Z"
+        },
+        {
+          "topicId": 155,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T20:21:32Z"
+        },
+        {
+          "topicId": 399,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T20:10:38Z"
+        },
+        {
+          "topicId": 553,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T20:20:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b-94a5-72a1-7013-83b7c7e1eeb0",
+          "createDate": "2023-11-17T19:42:27Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b94a572a1701383b7c7e1eeb0",
+          "createDate": "2023-11-17T19:42:27Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d8580-5e4d-5fc2-4877-11791f7c3a90",
+          "createDate": "2023-11-17T19:46:26Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2023-11-17T19:46:26Z"
+        },
+        {
+          "type": "guid",
+          "guid": "bee4d246-01d9-ae79-ec68-b1764719e766",
+          "createDate": "2023-11-17T20:20:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "bee4d24601d9ae79ec68b1764719e766",
+          "createDate": "2023-11-17T20:20:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "createDate": "2023-11-17T19:35:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "5231367719f8b106ec91d8d17e6087fe",
+          "createDate": "2023-11-17T19:35:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b38f959b-7865-31ac-8841-b88355519e10",
+          "createDate": "2023-11-17T19:35:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "93a81859174cd04159a238ca0f8d1c00",
+          "createDate": "2023-11-17T20:10:38Z"
+        },
+        {
+          "type": "guid",
+          "guid": "93a81859-174c-d041-59a2-38ca0f8d1c00",
+          "createDate": "2023-11-17T20:10:38Z"
+        },
+        {
+          "type": "guid",
+          "guid": "a7453610-68c9-438d-30e0-a3713d881634",
+          "createDate": "2023-11-17T20:21:32Z"
+        },
+        {
+          "type": "guid",
+          "guid": "a745361068c9438d30e0a3713d881634",
+          "createDate": "2023-11-17T20:21:32Z"
+        }
+      ],
+      "headline": "Yoshinobu Yamamoto talks with MLB teams set to start, source says",
+      "images": [
+        {
+          "dataSourceIdentifier": "99887fb0a1528",
+          "name": "Yoshinobu Yamamoto [1296x729]",
+          "width": 1296,
+          "id": 38365521,
+          "credit": "Kyodo News via AP",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2023/0910/r1222403_1296x729_16-9.jpg",
+          "height": 729
+        }
+      ],
+      "published": "2023-11-17T20:27:36Z",
+      "lastModified": "2023-11-17T20:27:32Z"
+    },
+    {
+      "dataSourceIdentifier": "c83a76ecf3950",
+      "description": "Las Vegas isn't just a cushy vacation destination -- over the past few years it's become a full-fledged sports city.",
+      "type": "Story",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38916330"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38916330"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/racing/f1/story/_/id/38916330/las-vegas-rise-premier-sports-city"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/rpm/story?storyId=38916330"
+        }
+      },
+      "categories": [
+        {
+          "id": 9572,
+          "description": "NFL",
+          "type": "league",
+          "sportId": 28,
+          "leagueId": 28,
+          "league": {
+            "id": 28,
+            "description": "NFL",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/football/nfl"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nfl/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/nfl/"
+                }
+              }
+            }
+          },
+          "uid": "s:20~l:28",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 53304,
+          "description": "Formula One",
+          "type": "league",
+          "sportId": 2030,
+          "leagueId": 2030,
+          "league": {
+            "id": 2030,
+            "description": "Formula One",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/racing/f1"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "http://espn.co.uk/f1/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espnf1.com/"
+                }
+              }
+            }
+          },
+          "uid": "s:2000~l:2030",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 123777,
+          "description": "Las Vegas Aces",
+          "type": "team",
+          "sportId": 59,
+          "teamId": 17,
+          "team": {
+            "id": 17,
+            "description": "Las Vegas Aces",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/basketball/wnba/teams/17"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/wnba/team/_/name/lv/las-vegas-aces"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/wnba/clubhouse?teamId=17"
+                }
+              }
+            }
+          },
+          "uid": "s:40~l:59~t:17",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 2553,
+          "description": "Las Vegas Raiders",
+          "type": "team",
+          "sportId": 28,
+          "teamId": 13,
+          "team": {
+            "id": 13,
+            "description": "Las Vegas Raiders",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/football/nfl/teams/13"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/nfl/clubhouse?teamId=13"
+                }
+              }
+            }
+          },
+          "uid": "s:20~l:28~t:13",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 316,
+          "description": "Oakland Athletics",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 11,
+          "team": {
+            "id": 11,
+            "description": "Oakland Athletics",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/11"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/oak/oakland-athletics"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=11"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:11",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 168810,
+          "description": "Vegas Golden Knights",
+          "type": "team",
+          "sportId": 90,
+          "teamId": 37,
+          "team": {
+            "id": 37,
+            "description": "Vegas Golden Knights",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/hockey/nhl/teams/37"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/nhl/team/_/name/vgk/vegas-golden-knights"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/nhl/clubhouse?teamId=37"
+                }
+              }
+            }
+          },
+          "uid": "s:70~l:90~t:37",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 9580,
+          "description": "NHL",
+          "type": "league",
+          "sportId": 90,
+          "leagueId": 90,
+          "league": {
+            "id": 90,
+            "description": "NHL",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/hockey/nhl"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nhl/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/nhl/"
+                }
+              }
+            }
+          },
+          "uid": "s:70~l:90",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 9579,
+          "description": "WNBA",
+          "type": "league",
+          "sportId": 59,
+          "leagueId": 59,
+          "league": {
+            "id": 59,
+            "description": "WNBA",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/basketball/wnba"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/wnba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/wnba/"
+                }
+              }
+            }
+          },
+          "uid": "s:40~l:59",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "id": 80311,
+          "description": "MLB",
+          "type": "league",
+          "sportId": 10,
+          "leagueId": 10,
+          "league": {
+            "id": 10,
+            "description": "MLB",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/mlb/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/mlb/"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T19:31:26Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b18540eb6f2b534ce7f99bd930518da9",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b18540eb-6f2b-534c-e7f9-9bd930518da9",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "dd8e7d92918d4ec14e50c328fc09467a",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "dd8e7d92-918d-4ec1-4e50-c328fc09467a",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "23bf83ee-6d7a-3957-8b67-8014ddb9ca47",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "1d8ed3a9-4c7d-0941-3677-bb6defe67c7a",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "1d8ed3a94c7d09413677bb6defe67c7a",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d8580-5e4d-5fc2-4877-11791f7c3a90",
+          "createDate": "2023-11-17T19:31:26Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2023-11-17T19:31:26Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b38f959b-7865-31ac-8841-b88355519e10",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "1a5f0227-a13e-396c-8cea-8961bc288666",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "c97eb968-6e82-9785-a302-0bb1a1c1d064",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "c97eb9686e829785a3020bb1a1c1d064",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "f74a6d24-af0c-30a0-bc20-e987c7093a68",
+          "createDate": "2023-11-17T19:20:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "8bc42afc59d80d998277e88d85d5abab",
+          "createDate": "2023-11-17T19:20:00Z"
+        }
+      ],
+      "headline": "Formula One adds to Las Vegas' rise as a premier sports city",
+      "byline": "Brianna Williams",
+      "images": [
+        {
+          "dataSourceIdentifier": "f7f3b95467132",
+          "name": "F1 Vegas [608x342]",
+          "width": 608,
+          "alt": "Sergio Perez of Mexico and Red Bull driving on track during the Formula 1 Las Vegas Grand Prix",
+          "caption": "The Formula One World Championship is set to hit The Strip on Saturday, continuing a six-year trend of sports having a bigger presence in Las Vegas.",
+          "id": 38916829,
+          "credit": "Dan Istitene - Formula 1/Formula 1 via Getty Images",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2023/1117/r1254224_608x342_16-9.jpg",
+          "height": 342
+        },
+        {
+          "name": "How Las Vegas is preparing for 'spectacular' F1 Grand Prix",
+          "width": 576,
+          "caption": "Laurence Edmondson provides an update from Las Vegas ahead of the inaugural Grand Prix.",
+          "type": "Media",
+          "url": "https://a.espncdn.com/media/motion/2023/1115/dm_231115_COM_F1_Analysis_How_Las_Vegas_is_prepari343/dm_231115_COM_F1_Analysis_How_Las_Vegas_is_prepari343.jpg",
+          "height": 324
+        }
+      ],
+      "published": "2023-11-17T19:20:44Z",
+      "lastModified": "2023-11-17T19:20:32Z"
+    },
+    {
+      "dataSourceIdentifier": "ede139b34bb9e",
+      "description": "The Guardians have traded starter Cal Quantrill to the Rockies for minor league catcher Kody Huff.",
+      "type": "HeadlineNews",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38920804"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38920804"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mlb/story/_/id/38920804/guardians-trade-cal-quantrill-rockies-minor-leaguer-huff"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/mlb/story?storyId=38920804"
+        }
+      },
+      "categories": [
+        {
+          "id": 80311,
+          "description": "MLB",
+          "type": "league",
+          "sportId": 10,
+          "leagueId": 10,
+          "league": {
+            "id": 10,
+            "description": "MLB",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/mlb/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/mlb/"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "id": 166,
+          "description": "Cleveland Guardians",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 5,
+          "team": {
+            "id": 5,
+            "description": "Cleveland Guardians",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/5"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/cle/cleveland-guardians"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=5"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:5",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "id": 778,
+          "description": "Colorado Rockies",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 27,
+          "team": {
+            "id": 27,
+            "description": "Colorado Rockies",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/27"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/col/colorado-rockies"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=27"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:27",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "id": 181238,
+          "description": "Cal Quantrill",
+          "type": "athlete",
+          "sportId": 10,
+          "athleteId": 39875,
+          "athlete": {
+            "id": 39875,
+            "description": "Cal Quantrill",
+            "links": {
+              "api": {
+                "athletes": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/athletes/39875"
+                }
+              },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mlb/player/_/id/39875/cal-quantrill"
+                }
+              },
+              "mobile": {
+                "athletes": {
+                  "href": "http://m.espn.com/mlb/playercard?playerId=39875"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~a:39875",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "id": 409224,
+          "description": "news",
+          "type": "topic",
+          "sportId": 0,
+          "topicId": 781,
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "topicId": 123,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T17:40:41Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b38f959b-7865-31ac-8841-b88355519e10",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b7610a747d7af1b17533d25d4682901c",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b7610a74-7d7a-f1b1-7533-d25d4682901c",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "f3f1ba7105f1a49a03633b1d8e0db4cf",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b-94a5-72a1-7013-83b7c7e1eeb0",
+          "createDate": "2023-11-17T17:40:41Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b94a572a1701383b7c7e1eeb0",
+          "createDate": "2023-11-17T17:40:41Z"
+        },
+        {
+          "type": "guid",
+          "guid": "6ad8fa03-36bc-baab-c76a-345b6544424d",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "6ad8fa0336bcbaabc76a345b6544424d",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "createDate": "2023-11-17T17:37:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "5231367719f8b106ec91d8d17e6087fe",
+          "createDate": "2023-11-17T17:37:00Z"
+        }
+      ],
+      "headline": "Guardians trade Cal Quantrill to Rockies for minor leaguer Huff",
+      "images": [
+        {
+          "name": "Yankees vs. Guardians - (Cal Quantrill) [1296x729]",
+          "width": 1296,
+          "alt": "Cal Quantrill",
+          "id": 34811640,
+          "credit": "Dylan Buell/Getty Images",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2022/1016/r1076753_1296x729_16-9.jpg",
+          "height": 729
+        }
+      ],
+      "published": "2023-11-17T17:41:53Z",
+      "lastModified": "2023-11-17T17:41:51Z"
+    },
+    {
+      "dataSourceIdentifier": "dc3d05404b540",
+      "description": "Can the Phillies take on Trout's contract and all the risk associated with it? We try to make a trade work for both sides.",
+      "type": "Story",
+      "premium": true,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38906521"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/38906521"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mlb/insider/story/_/id/38906521/mlb-phillies-angels-trade-mike-trout-2023-24"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/mlb/story?storyId=38906521"
+        }
+      },
+      "categories": [
+        {
+          "id": 80311,
+          "description": "MLB",
+          "type": "league",
+          "sportId": 10,
+          "leagueId": 10,
+          "league": {
+            "id": 10,
+            "description": "MLB",
+            "links": {
+              "api": {
+                "leagues": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb"
+                }
+              },
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/mlb/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "http://m.espn.com/mlb/"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "id": 474,
+          "description": "Philadelphia Phillies",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 22,
+          "team": {
+            "id": 22,
+            "description": "Philadelphia Phillies",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/22"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/phi/philadelphia-phillies"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=22"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:22",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "id": 16983,
+          "description": "Los Angeles Angels",
+          "type": "team",
+          "sportId": 10,
+          "teamId": 3,
+          "team": {
+            "id": 3,
+            "description": "Los Angeles Angels",
+            "links": {
+              "api": {
+                "teams": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/teams/3"
+                }
+              },
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mlb/team/_/name/laa/los-angeles-angels"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "http://m.espn.com/mlb/clubhouse?teamId=3"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~t:3",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "id": 73379,
+          "description": "Mike Trout",
+          "type": "athlete",
+          "sportId": 10,
+          "athleteId": 30836,
+          "athlete": {
+            "id": 30836,
+            "description": "Mike Trout",
+            "links": {
+              "api": {
+                "athletes": {
+                  "href": "http://now.core.api.espn.com/v1/sports/baseball/mlb/athletes/30836"
+                }
+              },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mlb/player/_/id/30836/mike-trout"
+                }
+              },
+              "mobile": {
+                "athletes": {
+                  "href": "http://m.espn.com/mlb/playercard?playerId=30836"
+                }
+              }
+            }
+          },
+          "uid": "s:1~l:10~a:30836",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T14:15:25Z"
+        },
+        {
+          "topicId": 123,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2023-11-17T12:25:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "e1be67bf-3688-8bd6-9bd6-c01d0e34e119",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "e1be67bf36888bd69bd6c01d0e34e119",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "053868c7-8bff-5edb-3cb6-f5490f33ef99",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "053868c78bff5edb3cb6f5490f33ef99",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "ff1e263a-f6a6-93c3-1373-418623652ff0",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "ff1e263af6a693c31373418623652ff0",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d8580-5e4d-5fc2-4877-11791f7c3a90",
+          "createDate": "2023-11-17T14:15:25Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2023-11-17T14:15:25Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b38f959b-7865-31ac-8841-b88355519e10",
+          "createDate": "2023-11-17T12:00:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b-94a5-72a1-7013-83b7c7e1eeb0",
+          "createDate": "2023-11-17T12:25:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "7f5ac95b94a572a1701383b7c7e1eeb0",
+          "createDate": "2023-11-17T12:25:28Z"
+        }
+      ],
+      "headline": "Why the Phillies should trade for Mike Trout",
+      "byline": "David Schoenfield",
+      "images": [
+        {
+          "dataSourceIdentifier": "80458f2d4e2d8",
+          "name": "Mike Trout [608x342]",
+          "width": 608,
+          "alt": "Los Angeles Angels center fielder Mike Trout runs after hitting a single against the Chicago White Sox during the ninth inning at Angel Stadium.",
+          "id": 38906698,
+          "credit": "Gary A. Vasquez-USA TODAY Sports",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2023/1115/r1253653_608x342_16-9.jpg",
+          "height": 342
+        }
+      ],
+      "published": "2023-11-17T16:40:12Z",
+      "lastModified": "2023-11-17T16:40:08Z"
+    }
+  ]
+}

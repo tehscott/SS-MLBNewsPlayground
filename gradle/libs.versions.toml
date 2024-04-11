@@ -1,0 +1,70 @@
+[versions]
+agp = "8.3.2"
+cardview = "1.0.0"
+detekt-formatting = "1.23.3"
+glide-compose = "1.0.0-beta01"
+github-glide = "4.16.0"
+google-material = "1.11.0"
+gson = "2.10.1"
+kotlin = "1.9.23"
+core-ktx = "1.12.0"
+junit = "4.13.2"
+androidx-test-ext-junit = "1.1.5"
+espresso-core = "3.5.1"
+appcompat = "1.6.1"
+ktor-client-serialization = "1.6.7"
+ktor-client-android = "1.6.7"
+material = "1.11.0"
+constraintlayout = "2.1.4"
+composeNavigation = "2.7.7"
+room = "2.6.1"
+dagger = "2.50"
+hilt = "2.48.1"
+mockito-core = "5.10.0"
+mockito-inline = "3.7.0"
+androidx-core-testing = "2.2.0"
+kotlinx-coroutines-test = "1.7.1"
+mockito-android = "2.12.0"
+
+[libraries]
+androidx-cardview = { module = "androidx.cardview:cardview", version.ref = "cardview" }
+core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
+detekt-formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", version.ref = "detekt-formatting" }
+glide = { module = "com.github.bumptech.glide:glide", version.ref = "github-glide" }
+glide-compose = { module = "com.github.bumptech.glide:compose", version.ref = "glide-compose" }
+gson = { module = "com.google.code.gson:gson", version.ref = "gson" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso-core" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+ktor-client-serialization = { module = "io.ktor:ktor-client-serialization", version.ref = "ktor-client-serialization" }
+ktor-client-android = { module = "io.ktor:ktor-client-android", version.ref = "ktor-client-android" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+material-v1110 = { module = "com.google.android.material:material", version.ref = "google-material" }
+compose-material3 = { module = "androidx.compose.material3:material3"}
+compose-ui = { module = "androidx.compose.ui:ui"}
+compose-ui-graphics = { module = "androidx.compose.ui:ui-graphics"}
+compose-ui-preview = { module = "androidx.compose.ui:ui-tooling-preview"}
+compose-ui-debug = { module = "androidx.compose.ui:ui-tooling"}
+compose-navigation = { module = "androidx.navigation:navigation-compose", name = "composeNavigation", version.ref = "composeNavigation"}
+androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "room" }
+androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "room" }
+androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "room" }
+hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "dagger" }
+hilt-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "dagger" }
+androidx-hilt-compiler = { module = "androidx.hilt:hilt-compiler", version.ref = "hilt" }
+hilt-navigation-compose = { module = "androidx.hilt:hilt-navigation-compose", version.ref = "hilt" }
+mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockito-core" }
+mockito-inline = { module = "org.mockito:mockito-inline", version.ref = "mockito-inline" }
+androidx-core-testing = { module = "androidx.arch.core:core-testing", version.ref = "androidx-core-testing" }
+kotlinx-coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "kotlinx-coroutines-test" }
+mockito-android = { module = "org.mockito:mockito-android", version.ref = "mockito-android" }
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
+
+[bundles]
+
